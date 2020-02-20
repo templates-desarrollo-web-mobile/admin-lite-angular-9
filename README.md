@@ -9,6 +9,9 @@ Saludos, a continuación les comparto un template que me ha sido de mucha utilid
 
  - **Versión:** Angular 9
  - **Template original:** https://adminlte.io/themes/AdminLTE/index2.html
+ - **Preview:** https://admin-lite-angular-9-re3kn5y92.now.sh/
+
+ 
 
 # Progreso
 
